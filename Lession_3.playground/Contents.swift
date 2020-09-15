@@ -212,7 +212,7 @@ truckCar1.doorStatus
 truckCar1.engineStatus = EngineStats.Start
 truckCar1.engineStatus = EngineStats.Stop
 
-
+// не получилось опять сделать нормально pull request
 
 
 
